@@ -9,8 +9,7 @@ If we included examples (generally on the German version of Amazon), this is not
 ### Must have
 
 * **Fever thermometer** (2-10 EUR/USD) ([example](https://www.amazon.de/gp/product/B001NYHXYS))
-
-   > ![](/images/thermometer.png)
+   >![](/images/thermometer.png)
    > 
    > So important that you should probably check yours if it's been in the bathroom cabinet for ages. Is the battery still OK? It really doesn't hurt to have two, just in case. At 2-10 bucks, they make great gifts (and as they may be inserted anally to get a more precise measurement, they may not be items you want to loan to someone.)
 
